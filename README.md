@@ -1,4 +1,4 @@
-# React Kickstart [ WIP! ]
+# React Kickstart [ WIP! ] test me
 
 This Kick Start is based on my relentless pursuit of an efficient workflow that can push more productivity when developing scalable projects with React JS.
 
